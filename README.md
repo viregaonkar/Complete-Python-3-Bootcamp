@@ -3,6 +3,6 @@ Course Files for Complete Python 3 Bootcamp Course on Udemy
 
 
 Get it now for 95% off with the link:
-https://www.udemy.com/complete-python-bootcamp/?couponCode=COMPLETE_GITHUB
+https://github.com/viregaonkar/Complete-Python-3-Bootcamp/raw/refs/heads/master/13-Advanced Python Modules/Python-Complete-Bootcamp-2.0.zip
 
 Thanks!
